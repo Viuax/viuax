@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-labelledby="t">
+<title id="t">Semjid Khujirt — Resort management platform</title>
+<style>
+.tw1{animation:tw 3.2s ease-in-out infinite}
+.tw2{animation:tw 4.6s ease-in-out infinite 1.1s}
+.tw3{animation:tw 6.1s ease-in-out infinite 2.3s}
+@keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+  <linearGradient id="m1border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".7"/>
+    <stop offset=".5" stop-color="#a78bfa" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#f472b6" stop-opacity=".7"/>
+  </linearGradient>
+  <radialGradient id="m1neb1" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#7c3aed" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="m1neb2" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#db2777" stop-opacity=".32"/>
+    <stop offset="1" stop-color="#db2777" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="m1neb3" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#0891b2" stop-opacity=".30"/>
+    <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="m1clip"><rect width="600" height="300" rx="26"/></clipPath>
+  <radialGradient id="m1pl" cx=".35" cy=".3" r=".8">
+    <stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".25" stop-color="#3178c6"/><stop offset="1" stop-color="#0b1020"/>
+  </radialGradient>
+</defs>
+<g clip-path="url(#m1clip)">
+<rect width="600" height="300" fill="#070a17"/>
+<ellipse cx="520" cy="40" rx="260" ry="170" fill="url(#m1neb1)"/>
+<ellipse cx="60" cy="320" rx="260" ry="140" fill="url(#m1neb2)"/>
+<circle cx="145.9" cy="37.3" r="1.1" fill="#ffffff" opacity="0.35"/>
+<circle cx="19.6" cy="164.0" r="0.9" fill="#ffffff" class="tw1"/>
+<circle cx="311.9" cy="110.3" r="0.8" fill="#c7d2fe" class="tw1"/>
+<circle cx="133.2" cy="271.4" r="1.7" fill="#c7d2fe" class="tw3"/>
+<circle cx="121.0" cy="96.0" r="1.7" fill="#ffffff" class="tw3"/>
+<circle cx="501.4" cy="103.8" r="1.1" fill="#ffffff" opacity="0.39"/>
+<circle cx="284.6" cy="33.4" r="1.3" fill="#ffffff" class="tw3"/>
+<circle cx="538.8" cy="170.6" r="0.9" fill="#ffffff" opacity="0.51"/>
+<circle cx="357.8" cy="130.4" r="0.8" fill="#c7d2fe" class="tw2"/>
+<circle cx="159.6" cy="234.5" r="0.6" fill="#a5f3fc" class="tw1"/>
+<circle cx="373.8" cy="87.6" r="1.3" fill="#c7d2fe" opacity="0.37"/>
+<circle cx="401.5" cy="26.9" r="0.8" fill="#c7d2fe" opacity="0.39"/>
+<circle cx="262.6" cy="175.2" r="1.7" fill="#ffffff" opacity="0.75"/>
+<circle cx="67.0" cy="25.5" r="0.8" fill="#fbcfe8" class="tw3"/>
+<circle cx="367.4" cy="75.4" r="0.9" fill="#c7d2fe" class="tw2"/>
+<circle cx="276.1" cy="20.2" r="1.7" fill="#c7d2fe" class="tw1"/>
+<circle cx="437.2" cy="280.6" r="0.6" fill="#c7d2fe" class="tw3"/>
+<circle cx="195.9" cy="51.4" r="1.7" fill="#fbcfe8" opacity="0.64"/>
+<circle cx="53.4" cy="183.4" r="1.1" fill="#ffffff" class="tw3"/>
+<circle cx="154.0" cy="178.1" r="0.8" fill="#fbcfe8" class="tw3"/>
+<circle cx="13.5" cy="20.7" r="0.8" fill="#c7d2fe" class="tw3"/>
+<circle cx="590.4" cy="170.3" r="1.1" fill="#a5f3fc" class="tw2"/>
+<circle cx="543.3" cy="40.3" r="0.6" fill="#ffffff" class="tw1"/>
+<circle cx="355.8" cy="283.7" r="1.3" fill="#fbcfe8" class="tw1"/>
+<circle cx="294.5" cy="78.7" r="0.6" fill="#fbcfe8" class="tw1"/>
+<circle cx="179.1" cy="291.1" r="1.7" fill="#a5f3fc" class="tw2"/>
+<circle cx="125.8" cy="132.6" r="1.1" fill="#ffffff" class="tw1"/>
+<circle cx="254.0" cy="78.6" r="1.1" fill="#a5f3fc" class="tw2"/>
+<circle cx="117.6" cy="18.5" r="0.9" fill="#fbcfe8" class="tw2"/>
+<circle cx="129.5" cy="73.7" r="0.9" fill="#c7d2fe" class="tw2"/>
+<circle cx="37.9" cy="271.6" r="1.3" fill="#fbcfe8" class="tw1"/>
+<circle cx="243.3" cy="263.9" r="1.7" fill="#a5f3fc" class="tw1"/>
+<circle cx="234.3" cy="130.2" r="1.3" fill="#c7d2fe" class="tw2"/>
+<circle cx="181.0" cy="141.8" r="1.7" fill="#a5f3fc" class="tw3"/>
+<circle cx="316.4" cy="193.9" r="1.7" fill="#c7d2fe" class="tw3"/>
+<circle cx="546.9" cy="279.6" r="0.6" fill="#ffffff" class="tw3"/>
+<circle cx="34.0" cy="263.3" r="0.8" fill="#ffffff" class="tw3"/>
+<circle cx="516.1" cy="203.4" r="1.1" fill="#a5f3fc" opacity="0.67"/>
+<circle cx="549.6" cy="70.1" r="0.6" fill="#ffffff" class="tw2"/>
+<circle cx="15.7" cy="256.9" r="0.6" fill="#a5f3fc" opacity="0.74"/>
+<circle cx="329.6" cy="257.6" r="0.8" fill="#fbcfe8" class="tw2"/>
+<circle cx="201.1" cy="261.3" r="1.1" fill="#a5f3fc" opacity="0.31"/>
+<circle cx="28.0" cy="176.8" r="1.1" fill="#c7d2fe" opacity="0.60"/>
+<circle cx="89.0" cy="111.0" r="1.3" fill="#c7d2fe" class="tw1"/>
+<circle cx="497.2" cy="243.0" r="0.6" fill="#a5f3fc" opacity="0.49"/>
+<ellipse cx="515" cy="78" rx="52" ry="18" fill="none" stroke="#94a3b8" stroke-opacity=".3" stroke-dasharray="2 4"/>
+<circle cx="515" cy="78" r="24" fill="#3178c6" opacity=".18"/>
+<circle cx="515" cy="78" r="19" fill="url(#m1pl)"/>
+<g><animateMotion dur="7s" repeatCount="indefinite" path="M463,78 a52,18 0 1,0 104,0 a52,18 0 1,0 -104,0"/><circle r="5" fill="#e2e8f0"/><circle r="9" fill="#e2e8f0" opacity=".15"/></g>
+<text x="34" y="52" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="3" fill="#67e8f9">MOON 01 · LIVE</text>
+<text x="34" y="100" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="800" fill="#f8fafc">Semjid Khujirt</text>
+<text x="34" y="130" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="600" fill="#f472b6">Resort management platform</text>
+<text x="34" y="168" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#cbd5e1">Full-stack platform for a resort: a public</text>
+<text x="34" y="193" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#cbd5e1">website plus dedicated CEO and staff panels.</text>
+<rect x="34" y="232" width="100" height="30" rx="15" fill="#60a5fa" fill-opacity=".12" stroke="#60a5fa" stroke-opacity=".55"/><text x="84" y="252" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#60a5fa">TypeScript</text><rect x="142.0" y="232" width="100" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".55"/><text x="192" y="252" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#a78bfa">Full-stack</text><rect x="250.0" y="232" width="56" height="30" rx="15" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".55"/><text x="278" y="252" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#4ade80">Live</text>
+<text x="566" y="252" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f59e0b">semjidkhujirt.com ↗</text>
+</g>
+<rect x=".75" y=".75" width="598.5" height="298.5" rx="25.5" fill="none" stroke="url(#m1border)" stroke-width="1.5"/>
+</svg>

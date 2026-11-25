@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-labelledby="t">
+<title id="t">Web Dev Agency — Founder</title>
+<style>
+.tw1{animation:tw 3.2s ease-in-out infinite}
+.tw2{animation:tw 4.6s ease-in-out infinite 1.1s}
+.tw3{animation:tw 6.1s ease-in-out infinite 2.3s}
+@keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+  <linearGradient id="m2border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".7"/>
+    <stop offset=".5" stop-color="#a78bfa" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#f472b6" stop-opacity=".7"/>
+  </linearGradient>
+  <radialGradient id="m2neb1" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#7c3aed" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="m2neb2" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#db2777" stop-opacity=".32"/>
+    <stop offset="1" stop-color="#db2777" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="m2neb3" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#0891b2" stop-opacity=".30"/>
+    <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="m2clip"><rect width="600" height="300" rx="26"/></clipPath>
+  <radialGradient id="m2pl" cx=".35" cy=".3" r=".8">
+    <stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".25" stop-color="#db2777"/><stop offset="1" stop-color="#0b1020"/>
+  </radialGradient>
+</defs>
+<g clip-path="url(#m2clip)">
+<rect width="600" height="300" fill="#070a17"/>
+<ellipse cx="520" cy="40" rx="260" ry="170" fill="url(#m2neb1)"/>
+<ellipse cx="60" cy="320" rx="260" ry="140" fill="url(#m2neb2)"/>
+<circle cx="278.4" cy="114.0" r="0.8" fill="#ffffff" class="tw2"/>
+<circle cx="205.6" cy="139.7" r="1.3" fill="#c7d2fe" class="tw1"/>
+<circle cx="331.7" cy="183.1" r="0.6" fill="#ffffff" opacity="0.65"/>
+<circle cx="272.0" cy="213.9" r="0.8" fill="#ffffff" class="tw2"/>
+<circle cx="38.0" cy="45.6" r="1.3" fill="#a5f3fc" class="tw1"/>
+<circle cx="469.1" cy="260.0" r="0.9" fill="#ffffff" class="tw2"/>
+<circle cx="431.8" cy="127.8" r="0.6" fill="#ffffff" class="tw3"/>
+<circle cx="239.6" cy="105.0" r="0.6" fill="#ffffff" class="tw2"/>
+<circle cx="521.6" cy="23.6" r="1.1" fill="#ffffff" opacity="0.31"/>
+<circle cx="256.0" cy="265.4" r="0.6" fill="#ffffff" opacity="0.36"/>
+<circle cx="346.0" cy="262.3" r="0.8" fill="#ffffff" class="tw3"/>
+<circle cx="529.2" cy="45.8" r="0.6" fill="#ffffff" opacity="0.59"/>
+<circle cx="322.0" cy="64.3" r="0.6" fill="#ffffff" opacity="0.62"/>
+<circle cx="62.6" cy="172.7" r="0.8" fill="#ffffff" opacity="0.33"/>
+<circle cx="332.2" cy="180.2" r="0.8" fill="#fbcfe8" class="tw3"/>
+<circle cx="590.8" cy="42.5" r="1.7" fill="#ffffff" opacity="0.38"/>
+<circle cx="302.9" cy="217.0" r="1.7" fill="#fbcfe8" opacity="0.58"/>
+<circle cx="409.6" cy="254.3" r="0.6" fill="#c7d2fe" opacity="0.53"/>
+<circle cx="242.9" cy="288.0" r="1.3" fill="#a5f3fc" class="tw1"/>
+<circle cx="474.8" cy="101.4" r="1.1" fill="#ffffff" class="tw1"/>
+<circle cx="137.5" cy="84.6" r="0.6" fill="#c7d2fe" class="tw3"/>
+<circle cx="68.2" cy="230.7" r="0.6" fill="#fbcfe8" opacity="0.70"/>
+<circle cx="298.4" cy="209.5" r="0.8" fill="#ffffff" opacity="0.51"/>
+<circle cx="142.9" cy="281.8" r="1.1" fill="#c7d2fe" opacity="0.78"/>
+<circle cx="335.3" cy="47.5" r="0.9" fill="#c7d2fe" class="tw2"/>
+<circle cx="25.2" cy="274.8" r="0.8" fill="#ffffff" class="tw3"/>
+<circle cx="583.9" cy="180.3" r="0.6" fill="#ffffff" class="tw1"/>
+<circle cx="271.1" cy="231.4" r="0.9" fill="#ffffff" opacity="0.78"/>
+<circle cx="215.0" cy="47.9" r="1.3" fill="#ffffff" class="tw3"/>
+<circle cx="569.7" cy="220.3" r="0.9" fill="#ffffff" class="tw1"/>
+<circle cx="253.2" cy="48.5" r="1.3" fill="#fbcfe8" opacity="0.74"/>
+<circle cx="106.7" cy="211.2" r="1.3" fill="#a5f3fc" opacity="0.47"/>
+<circle cx="547.1" cy="86.6" r="0.8" fill="#ffffff" class="tw2"/>
+<circle cx="102.7" cy="232.3" r="0.6" fill="#ffffff" class="tw2"/>
+<circle cx="284.6" cy="176.0" r="1.3" fill="#ffffff" opacity="0.39"/>
+<circle cx="289.5" cy="276.8" r="1.3" fill="#ffffff" class="tw1"/>
+<circle cx="347.3" cy="174.2" r="1.1" fill="#c7d2fe" opacity="0.56"/>
+<circle cx="321.7" cy="266.3" r="0.6" fill="#fbcfe8" opacity="0.78"/>
+<circle cx="45.6" cy="71.7" r="0.8" fill="#ffffff" class="tw1"/>
+<circle cx="416.5" cy="136.8" r="1.1" fill="#fbcfe8" class="tw1"/>
+<circle cx="25.1" cy="77.2" r="1.1" fill="#c7d2fe" class="tw2"/>
+<circle cx="488.7" cy="215.2" r="1.3" fill="#ffffff" opacity="0.32"/>
+<circle cx="356.6" cy="182.2" r="1.7" fill="#a5f3fc" opacity="0.59"/>
+<circle cx="55.2" cy="17.7" r="0.8" fill="#ffffff" class="tw1"/>
+<circle cx="25.4" cy="185.4" r="1.3" fill="#a5f3fc" opacity="0.31"/>
+<ellipse cx="515" cy="78" rx="52" ry="18" fill="none" stroke="#94a3b8" stroke-opacity=".3" stroke-dasharray="2 4"/>
+<circle cx="515" cy="78" r="24" fill="#db2777" opacity=".18"/>
+<circle cx="515" cy="78" r="19" fill="url(#m2pl)"/>
+<g><animateMotion dur="7s" repeatCount="indefinite" path="M463,78 a52,18 0 1,0 104,0 a52,18 0 1,0 -104,0"/><circle r="5" fill="#e2e8f0"/><circle r="9" fill="#e2e8f0" opacity=".15"/></g>
+<text x="34" y="52" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="3" fill="#67e8f9">MOON 02 · FOUNDER</text>
+<text x="34" y="100" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="800" fill="#f8fafc">Web Dev Agency</text>
+<text x="34" y="130" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="600" fill="#f472b6">Founder</text>
+<text x="34" y="168" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#cbd5e1">Founded a web development agency that</text>
+<text x="34" y="193" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#cbd5e1">designs and builds websites for clients.</text>
+<rect x="34" y="232" width="78" height="30" rx="15" fill="#f59e0b" fill-opacity=".12" stroke="#f59e0b" stroke-opacity=".55"/><text x="73" y="252" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#f59e0b">Founder</text><rect x="119.80000000000001" y="232" width="107" height="30" rx="15" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".55"/><text x="174" y="252" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#f472b6">Client work</text><rect x="235.20000000000002" y="232" width="48" height="30" rx="15" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".55"/><text x="259" y="252" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#22d3ee">Web</text>
+
+</g>
+<rect x=".75" y=".75" width="598.5" height="298.5" rx="25.5" fill="none" stroke="url(#m2border)" stroke-width="1.5"/>
+</svg>
